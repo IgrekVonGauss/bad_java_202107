@@ -1,4 +1,4 @@
-package com.bad_java.homework.hyperskill.CoffeeMachine._04;
+package main.java.com.bad_java.homework.hyperskill.CoffeeMachine._04;
 
 public class IngredientsRepository {
   private long cups;

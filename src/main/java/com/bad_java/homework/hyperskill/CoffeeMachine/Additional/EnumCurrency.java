@@ -1,4 +1,4 @@
-package com.bad_java.homework.hyperskill.CoffeeMachine.Additional;
+package main.java.com.bad_java.homework.hyperskill.CoffeeMachine.Additional;
 
 //https://hyperskill.org/learn/step/11519
 

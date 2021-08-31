@@ -1,4 +1,4 @@
-package com.bad_java.homework.hyperskill.SimpleChattyBot.Additional;
+package main.java.com.bad_java.homework.hyperskill.SimpleChattyBot.Additional;
 
 import java.util.Scanner;
 

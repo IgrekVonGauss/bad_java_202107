@@ -1,4 +1,4 @@
-package com.bad_java.homework.hyperskill.SimpTicTacToe._02.domain;
+package main.java.com.bad_java.homework.hyperskill.SimpTicTacToe._02.domain;
 
 public class Board {
   char[][] board;

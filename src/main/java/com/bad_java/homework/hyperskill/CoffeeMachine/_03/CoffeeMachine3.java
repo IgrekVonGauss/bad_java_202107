@@ -1,4 +1,4 @@
-package com.bad_java.homework.hyperskill.CoffeeMachine._03;
+package main.java.com.bad_java.homework.hyperskill.CoffeeMachine._03;
 
 import java.util.Scanner;
 

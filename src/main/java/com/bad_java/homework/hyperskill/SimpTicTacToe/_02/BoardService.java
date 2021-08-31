@@ -1,6 +1,6 @@
-package com.bad_java.homework.hyperskill.SimpTicTacToe._02;
+package main.java.com.bad_java.homework.hyperskill.SimpTicTacToe._02;
 
-import com.bad_java.homework.hyperskill.SimpTicTacToe._02.domain.Board;
+import main.java.com.bad_java.homework.hyperskill.SimpTicTacToe._02.domain.Board;
 
 public class BoardService {
   private final Board board = new Board();

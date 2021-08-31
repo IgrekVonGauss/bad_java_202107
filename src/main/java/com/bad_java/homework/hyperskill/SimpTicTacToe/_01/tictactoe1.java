@@ -1,4 +1,4 @@
-package com.bad_java.homework.hyperskill.SimpTicTacToe._01;
+package main.java.com.bad_java.homework.hyperskill.SimpTicTacToe._01;
 
 public class tictactoe1 {
     public static void main(String[] args) {
